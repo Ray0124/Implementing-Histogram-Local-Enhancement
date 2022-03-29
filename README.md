@@ -1,4 +1,4 @@
-Implementing histogram statistics method and local enhancement method to extract low contrast pattern hidding in the pic.
+Implementing histogram statistics method and local enhancement method to extract low contrast pattern hidding in the pic.  
 The sample picture is as bellow:  
 
 ![image](https://github.com/Ray0124/Implementing-Histogram-Local-Enhancement/blob/main/hidden%20object.jpg)  
