@@ -14,7 +14,7 @@ According to condition:
 
 ![image](https://github.com/Ray0124/Find-Hidden-Patterns-by-Histogram-Local-Enhancement-/blob/main/condition.PNG)  
 
-I made a sliding window to compute some parameter(mean and standard deviation) and comparing the parameter of ROI with the parameter of the whole picture to choose setting like k0、k1 to separate dark from white part, and k2、k3 to enhance its low contrast part.  
+I made a sliding window to compute some parameter(mean and standard deviation) and comparing the parameter of ROI with the parameter of the whole picture to choose setting like k0、k1 to separate dark from white part, k2、k3 to enhance its low contrast part, and the enhance degree C.    
 Then, we can extract the hidding pattern as below:
 
 ![image](https://github.com/Ray0124/Find-Hidden-Patterns-by-Histogram-Local-Enhancement-/blob/main/contrast.png)  
