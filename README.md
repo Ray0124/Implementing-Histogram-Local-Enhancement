@@ -9,7 +9,7 @@ You will notice that some gray scale probability are high.
 ![image](https://github.com/Ray0124/Find-Hidden-Patterns-by-Histogram-Local-Enhancement-/blob/main/pdf.PNG)  
 
 We can use histogram equalization to enhance the contour of the whole picture, but the hidding pattern is low contrast ,so the effect is not good.  
-It seem that we should take the picture part by part to judge whether to enhance (Local enhancement).  
+It seems that we should take the picture part by part to judge whether to enhance (Local enhancement).  
 According to condition:
 
 ![image](https://github.com/Ray0124/Find-Hidden-Patterns-by-Histogram-Local-Enhancement-/blob/main/condition.PNG)  
