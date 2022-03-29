@@ -1,4 +1,3 @@
-using histogram local enhancement to extract hidden image 
 Implementing histogram statistics method and local enhancement method to extract low contrast pattern hidding in the pic.
 First,we can check probability density function about the picture.
 You will notice that some gray scale probability are high. 
